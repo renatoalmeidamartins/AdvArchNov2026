@@ -19,3 +19,5 @@
 - [Since july 2024, 400 Gpbs Direct Connect connections were available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-direct-connect-native-400-gbps-dedicated-connections-select-locations/)
 - [AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity](https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/)
 - [Amazon S3 Transfer Acceleration - Speed Comparison](https://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
+- [AWS Snow device updates](https://aws.amazon.com/blogs/storage/aws-snow-device-updates/)
+- [Using the AWS Storage Gateway Hardware Appliance](https://docs.aws.amazon.com/filegateway/latest/files3/hardware-appliance.html) - not available since mid 2025
