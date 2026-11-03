@@ -6,3 +6,4 @@
 - [Online course supplement](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/64TDHJKPZY)
 
 ## Class links
+- [Azure for AWS professionals](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
