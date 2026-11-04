@@ -50,3 +50,14 @@
 - [GitHub repo with sample CloudFormation templates](https://github.com/aws-cloudformation/aws-cloudformation-templates)
 - [taskcat](https://aws-ia.github.io/taskcat/): Test your AWS CloudFormation templates across multiple regions
 - [Introducing the new console experience for AWS WAF](https://aws.amazon.com/blogs/security/introducing-the-new-console-experience-for-aws-waf/), introducing the "plans"
+- [New and enhanced AWS Support plans add AI capabilities to expert guidance](https://aws.amazon.com/blogs/aws/new-and-enhanced-aws-support-plans-add-ai-capabilities-to-expert-guidance/)
+- [AWS Shield Engagement Lambda - The Configuration Guide](https://s3.amazonaws.com/aws-shield-lambda/ShieldEngagementLambda.pdf)
+- [AWS Shield Advanced Features](https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/aws-shield-advanced-features.html)
+- [Example Shield Advanced DDoS resiliency architecture for common web applications](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-resiliency-example-web.html)
+- [How to use on-demand rotation for AWS KMS imported keys](https://aws.amazon.com/blogs/security/how-to-use-on-demand-rotation-for-aws-kms-imported-keys/)
+- [The curious case of faster AWS KMS symmetric key rotation](https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/)
+- [Reducing AWS Key Management Service costs by up to 99% with Amazon S3 Bucket Keys](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
+- [Advanced notice: Amazon S3 to disable the use of SSE-C encryption by default for all new buckets and select existing buckets in April 2026](https://aws.amazon.com/blogs/storage/advanced-notice-amazon-s3-to-disable-the-use-of-sse-c-encryption-by-default-for-all-new-buckets-and-select-existing-buckets-in-april-2026/)
+- [Oracle database transparent data encryption (TDE) with AWS CloudHSM](https://docs.aws.amazon.com/cloudhsm/latest/userguide/oracle-tde.html)
+- [AWS Secrets Manager rotation function templates](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
+- [AWS Secrets Manager and Config Provider for Secret Store CSI Driver](https://github.com/aws/secrets-store-csi-driver-provider-aws)
