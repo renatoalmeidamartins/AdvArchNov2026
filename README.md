@@ -35,3 +35,18 @@
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [ECS task definitions](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/example_task_definitions.html)
 - [CNCF Landscape](https://landscape.cncf.io/)
+- [EKS auto-mode](https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode/)
+- [Understand the Kubernetes version lifecycle on EKS](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
+- [EKS Anywhere](https://anywhere.eks.amazonaws.com/docs/overview/)
+- [Registering external clusters on EKS](https://docs.aws.amazon.com/eks/latest/APIReference/API_RegisterCluster.html)
+- [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Per day at flickr](https://www.youtube.com/watch?v=LdOe18KhtT4&t=12s)
+- [The Goal: A Process of Ongoing Improvement -… by Eliyahu Goldratt · Audiobook preview](https://www.youtube.com/watch?v=01j82fj5c6Q)
+- [Accelerate book](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations)
+- [One example of a "state of devops report"](https://dora.dev/research/2024/dora-report/)
+- [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
+- In mid-2024, AWS decided to deprecate CodeCommit. Then, in November 2025, they reverted the decision. Here is the story: [The Future of AWS CodeCommit](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
+- [CodeBuild's buildspec reference](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html)
+- [CodeDeploy AppSpec hooks](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html)
+- [GitHub repo with sample CloudFormation templates](https://github.com/aws-cloudformation/aws-cloudformation-templates)
+- [taskcat](https://aws-ia.github.io/taskcat/): Test your AWS CloudFormation templates across multiple regions
+- [Introducing the new console experience for AWS WAF](https://aws.amazon.com/blogs/security/introducing-the-new-console-experience-for-aws-waf/), introducing the "plans"
