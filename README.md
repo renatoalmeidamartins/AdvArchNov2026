@@ -21,3 +21,5 @@
 - [Amazon S3 Transfer Acceleration - Speed Comparison](https://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
 - [AWS Snow device updates](https://aws.amazon.com/blogs/storage/aws-snow-device-updates/)
 - [Using the AWS Storage Gateway Hardware Appliance](https://docs.aws.amazon.com/filegateway/latest/files3/hardware-appliance.html) - not available since mid 2025
+- [VMware Cloud on AWS](https://aws.amazon.com/vmware/vmwarecloudonaws/) - gone since 2024
+- [Explore AWS Capabilities by Region](https://builder.aws.com/build/capabilities/explore?tab=service-feature)
