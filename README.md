@@ -6,6 +6,8 @@
 - [Online course supplement](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/64TDHJKPZY)
 
 ## Class links
+
+### Day 1
 - [Azure for AWS professionals](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
 - [Route 53 routing policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 - [IAM Identity Center identity source tutorials](https://docs.aws.amazon.com/singlesignon/latest/userguide/tutorials.html)
@@ -23,3 +25,13 @@
 - [Using the AWS Storage Gateway Hardware Appliance](https://docs.aws.amazon.com/filegateway/latest/files3/hardware-appliance.html) - not available since mid 2025
 - [VMware Cloud on AWS](https://aws.amazon.com/vmware/vmwarecloudonaws/) - gone since 2024
 - [Explore AWS Capabilities by Region](https://builder.aws.com/build/capabilities/explore?tab=service-feature)
+### Day 2 links
+- [Transit VPC](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/transit-vpc-option.html), the architecture that led to the idea of Transit gateway
+- Containers
+    - In November 2020, Docker started imposing rate limits on Docker Hub. Then AWS posted this: [Advice for customers dealing with Docker Hub rate limits, and a Coming Soon announcement](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/), and soon after, AWS ECR Gallery was released
+    - [Docker Hub](https://hub.docker.com/search)
+    - [AWS ECR Gallery](https://gallery.ecr.aws/search)
+- [Kubernetes Architecture](https://kubernetes.io/docs/concepts/architecture/)
+- [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [ECS task definitions](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/example_task_definitions.html)
+- [CNCF Landscape](https://landscape.cncf.io/)
