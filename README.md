@@ -11,6 +11,7 @@
 - [MyClass](https://myclass.skillbuilder.aws) has the survey. Class is marked as compelte, and you will have the link to the survey in the "Past classes" section
 - [Free exam simulation with 20 question, in SkillBuilder](https://skillbuilder.aws/learn/B13NNGQE66/official-practice-question-set-aws-certified-solutions-architect--professional-sapc03--english/5W9Q21STGG)
 - [Solutions Architect Professional exam](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+- [AWS Partner certification readiness sessions](https://aws.amazon.com/partners/training/certification/). By joining these (your company must be an AWS partner), you might be entitled to a voucher. Problem is they are running more associate and foundational level ones.
 ## Class links
 
 ### Day 1
