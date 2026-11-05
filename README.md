@@ -1,11 +1,16 @@
 # AdvArchNov2026
 
+
+## My connection details
+- [LinkedIn](https://www.linkedin.com/in/renatodealmeidamartins)
+- renatoalmeidamartins@gmail.com
 ## Courseware, labs and survey
 - [Labs and courseware](https://us-east-1.student.classrooms.aws.training/class/ilt%23gr7eMKzHbfC9hJZikJBQaa)
 - [Skillbuilder](https://skillbuilder.aws/), loads of courses, video, cert prep, ...
 - [Online course supplement](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/64TDHJKPZY)
 - [MyClass](https://myclass.skillbuilder.aws) has the survey. Class is marked as compelte, and you will have the link to the survey in the "Past classes" section
 - [Free exam simulation with 20 question, in SkillBuilder](https://skillbuilder.aws/learn/B13NNGQE66/official-practice-question-set-aws-certified-solutions-architect--professional-sapc03--english/5W9Q21STGG)
+- [Solutions Architect Professional exam](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 ## Class links
 
 ### Day 1
