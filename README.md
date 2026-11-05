@@ -63,6 +63,7 @@
 - [AWS Secrets Manager and Config Provider for Secret Store CSI Driver](https://github.com/aws/secrets-store-csi-driver-provider-aws)
 
 ### Day 3 links
+- [A comprehensive feature comparison study of opensource container orchestration frameworks](https://arxiv.org/pdf/2002.02806)
 - S3 stuff
     - [Twenty years of Amazon S3 and building what’s next](https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/)
     - [Amazon S3 increases the maximum object size to 50 TB](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-maximum-object-size-50-tb/)
@@ -72,3 +73,23 @@
 - Data lakes
     - [Medallion architecture](https://www.databricks.com/blog/what-is-medallion-architecture)
     - [The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
+    - [Lake formation blueprints](https://docs.aws.amazon.com/lake-formation/latest/dg/workflows-about.html)
+    - [Lake Formation tag-based access control](https://docs.aws.amazon.com/lake-formation/latest/dg/tag-based-access-control.html)
+
+- Migration
+    - [6 Strategies for Migrating Applications to the Cloud](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
+    - [Multi-Cloud is the Worst Practice](https://www.lastweekinaws.com/blog/multi-cloud-is-the-worst-practice/)
+    - [AWS Cloud Adoption Framework (AWS CAF)](https://aws.amazon.com/cloud-adoption-framework/)
+    - [Assess your own cloud readiness: Create a detailed roadmap for cloud migration](https://aws.amazon.com/blogs/publicsector/assess-your-own-cloud-readiness-create-a-detailed-roadmap-for-cloud-migration/) - the cloud readiness assessment tool is no longer available
+    - [AWS Assessment Tool](https://a2t.accelerate.amazonaws.com/) - in maintenance mode
+    - [Migration evaluator](https://aws.amazon.com/migration-evaluator/getting-started/) - available only for partners
+    - [Migration Portfolio Assessment](https://mpa.accelerate.amazonaws.com/)
+    - [AWS Application Discovery Service](https://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html) - no longer open to new customers
+    - [Application migration service](https://aws.amazon.com/application-migration-service/) - it is now part of transform
+    - [Database Migration Step-by-Step Walkthroughs](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
+    - [AWS Transform for migrations](https://aws.amazon.com/transform/migrations/)
+    - [AWS-Managed Transformations](https://docs.aws.amazon.com/transform/latest/userguide/transform-aws-customs.html)
+    - New transformations are coming every week at least
+        - [AWS Transform announces Azure-to-AWS cloud-native code conversion](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/)
+        - [AWS Transform now builds new networks and modernizes security groups](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-new-networks/)
+        - [AWS Transform for mainframe improves the reimagine modernization workflow](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/)
