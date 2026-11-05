@@ -4,7 +4,7 @@
 - [Labs and courseware](https://us-east-1.student.classrooms.aws.training/class/ilt%23gr7eMKzHbfC9hJZikJBQaa)
 - [Skillbuilder](https://skillbuilder.aws/), loads of courses, video, cert prep, ...
 - [Online course supplement](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/64TDHJKPZY)
-
+- [MyClass](https://myclass.skillbuilder.aws) has the survey. Class is marked as compelte, and you will have the link to the survey in the "Past classes" section
 ## Class links
 
 ### Day 1
@@ -116,3 +116,6 @@
     - [Build multi-step applications and AI workflows with AWS Lambda durable functions](https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/)
     - [Durable functions or Step Functions](https://docs.aws.amazon.com/lambda/latest/dg/durable-step-functions.html)
     - [Announcing AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
+- Cloudfront
+    - [Amazon CloudFront flat-rate pricing plans: new features and expanded capabilities](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/)
+    - [Amazon CloudFront introduces Origin Access Control (OAC)](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-introduces-origin-access-control-oac/)
