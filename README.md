@@ -110,3 +110,9 @@
     - [Use Amazon VPC Lattice to streamline and secure TCP resource connectivity across multiple AWS Accounts](https://aws.amazon.com/blogs/networking-and-content-delivery/use-amazon-vpc-lattice-to-streamline-and-secure-tcp-resource-connectivity-across-multiple-aws-accounts/)
     - is there a way to extend  the CFN-Guard functionality (Proactive controls )  to API deployments , like using terraform? Since [release 5.23.0](https://github.com/hashicorp/terraform-provider-aws/blob/v5.23.0/CHANGELOG.md), the AWS terraform provider supports the evaluation_mode attribute in the aws_config_config_rule, as [this PR](https://github.com/hashicorp/terraform-provider-aws/pull/34033/changes) shows. It can have the value of PROACTIVE, which should implement similar functionality to what CFN Guard proactive controls do.
     - [CloudFormation StackSets delegated administration](https://aws.amazon.com/blogs/mt/cloudformation-stacksets-delegated-administration/)
+- New Lambda features
+    - [Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/)
+    - [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+    - [Build multi-step applications and AI workflows with AWS Lambda durable functions](https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/)
+    - [Durable functions or Step Functions](https://docs.aws.amazon.com/lambda/latest/dg/durable-step-functions.html)
+    - [Announcing AWS Lambda Web Functions](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/)
