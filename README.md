@@ -93,3 +93,20 @@
         - [AWS Transform announces Azure-to-AWS cloud-native code conversion](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/)
         - [AWS Transform now builds new networks and modernizes security groups](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-new-networks/)
         - [AWS Transform for mainframe improves the reimagine modernization workflow](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/)
+- Cost optimization
+    - [FOCUS - FinOps Open Cost and Usage Specification](https://focus.finops.org/what-is-focus/)
+    - [Kubecost](https://github.com/kubecost)
+    - [Tagging for cost allocation or attribute-based access control (ABAC)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/tagging.html)
+    - [Activating cost-allocation tags](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/activating-tags.html)
+    - [Tag policies](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_tag-policies.html)
+    - [Design principles for cost optimization](https://docs.aws.amazon.com/wellarchitected/latest/framework/cost-dp.html)
+    - [Key concepts for burstable performance instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-credits-baseline-concepts.html)
+    - [Spot Instance interruption notices](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-instance-termination-notices.html)
+    - [Optimize storage cost for your Athena queries](https://aws.amazon.com/blogs/aws-cloud-financial-management/optimize-cost-for-your-athena-queries/)
+
+- Answers to some pending questions:
+    - [Migrating from AWS App Mesh to Amazon VPC Lattice](https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-vpc-lattice/)
+    - [Amazon VPC Lattice Explained: Connecting, Securing and Monitoring Applications Across VPCs](https://builder.aws.com/content/3JcjSwfsqoXPW9UQDl2Akf1RFll/amazon-vpc-lattice-explained-connecting-securing-and-monitoring-applications-across-vpcs)
+    - [Use Amazon VPC Lattice to streamline and secure TCP resource connectivity across multiple AWS Accounts](https://aws.amazon.com/blogs/networking-and-content-delivery/use-amazon-vpc-lattice-to-streamline-and-secure-tcp-resource-connectivity-across-multiple-aws-accounts/)
+    - is there a way to extend  the CFN-Guard functionality (Proactive controls )  to API deployments , like using terraform? Since [release 5.23.0](https://github.com/hashicorp/terraform-provider-aws/blob/v5.23.0/CHANGELOG.md), the AWS terraform provider supports the evaluation_mode attribute in the aws_config_config_rule, as [this PR](https://github.com/hashicorp/terraform-provider-aws/pull/34033/changes) shows. It can have the value of PROACTIVE, which should implement similar functionality to what CFN Guard proactive controls do.
+    - [CloudFormation StackSets delegated administration](https://aws.amazon.com/blogs/mt/cloudformation-stacksets-delegated-administration/)
