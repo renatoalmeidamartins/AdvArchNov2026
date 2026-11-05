@@ -5,6 +5,7 @@
 - [Skillbuilder](https://skillbuilder.aws/), loads of courses, video, cert prep, ...
 - [Online course supplement](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/64TDHJKPZY)
 - [MyClass](https://myclass.skillbuilder.aws) has the survey. Class is marked as compelte, and you will have the link to the survey in the "Past classes" section
+- [Free exam simulation with 20 question, in SkillBuilder](https://skillbuilder.aws/learn/B13NNGQE66/official-practice-question-set-aws-certified-solutions-architect--professional-sapc03--english/5W9Q21STGG)
 ## Class links
 
 ### Day 1
